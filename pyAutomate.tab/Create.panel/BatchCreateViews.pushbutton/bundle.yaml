@@ -1,0 +1,7 @@
+title:
+  en_us: |-
+    Batch
+    Create Views
+tooltip: Create new views based on view template and level.
+min_revit_version: 2017
+author: "{{author}}"

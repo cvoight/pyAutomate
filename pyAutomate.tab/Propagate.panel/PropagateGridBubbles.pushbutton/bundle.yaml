@@ -1,0 +1,7 @@
+title:
+  en_us: |-
+    Grid
+    Bubbles
+tooltip: Choose which grid bubbles to show in views.
+min_revit_version: 2017
+author: "{{author}}"

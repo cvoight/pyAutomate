@@ -1,0 +1,7 @@
+title:
+  en_us: |-
+    Batch
+    Place Views
+tooltip: Place views based on a template sheet and a sheet <> view pairing list.
+min_revit_version: 2017
+author: "{{author}}"

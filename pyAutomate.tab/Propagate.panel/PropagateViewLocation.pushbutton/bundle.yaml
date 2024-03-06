@@ -1,0 +1,7 @@
+title:
+  en_us: |-
+    View
+    Location
+tooltip: Propagate the alignment of a viewport from a template sheet to other sheets.
+min_revit_version: 2017
+author: "{{author}}"

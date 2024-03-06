@@ -1,0 +1,9 @@
+{
+    "name": "pyAutomate",
+    "type": "extension",
+    "description": "IronPython Automation Scripts for Autodesk Revit",
+    "author": "Cody Voight",
+    "templates": {
+        "author": "Cody Voight"
+    }
+}

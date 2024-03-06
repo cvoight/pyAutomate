@@ -1,0 +1,5 @@
+layout:
+  - PropagateCropRegion
+  - PropagateGridBubbles
+  - PropagateViewLocation
+  - PropagateSheetNameToView

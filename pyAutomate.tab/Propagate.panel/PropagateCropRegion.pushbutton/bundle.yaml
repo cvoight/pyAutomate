@@ -1,0 +1,7 @@
+title:
+  en_us: |-
+    Crop
+    Region
+tooltip: Propagate the crop region of a template plan view to other plan views.
+min_revit_version: 2017
+author: "{{author}}"
